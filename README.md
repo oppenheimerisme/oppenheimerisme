@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @oppenheimerisme
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: We are all entangled with each other and objects can be in two places at once........
 
 <!---
 oppenheimerisme/oppenheimerisme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
