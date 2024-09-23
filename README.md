@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=1025&lines=Hey+there!+Oppenehimer+here%2C+working+as+a+CyberSecurity+Analyst+and+Researcher;I+also+research+and+develop+POC+of+DDoS+attacks+types+for+Stress+testing%2C+,and+security+operations;I'm+a%2C+Open+Source+Contributor;I+also+have+a+keen+interest+in+offensive+security;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=1125&lines=Hey+there!+Oppenehimer+here%2C+working+as+a+CyberSecurity+Analyst+and+Researcher;I+also+research+and+develop+POC+of+DDoS+attacks+types+for+Stress+testing%2C+,and+security+operations;I'm+a%2C+Open+Source+Contributor;I+also+have+a+keen+interest+in+offensive+security;)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @oppenheimerisme
